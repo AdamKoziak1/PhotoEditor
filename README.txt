@@ -1,8 +1,7 @@
 ﻿Contact information: 
 Adam Koziak 
 101140761
-adamkoziak@cmail.carleton.ca
-
+adam.koziak2@gmail.com
 
 Date: 
 07/04/2020
@@ -15,13 +14,17 @@ Price: Free to use
 
 
 Description: 
-This application allows users to choose an image and apply different filters. There are 9 filters in total. The image can then be saved as a copy.
+This application allows users to choose an image and apply different filters. 
+There are currently 9 filters. The image can then be saved as a copy.
 
 Installation: 
-Required to install Python version 3 or above. Download and install from: https://www.python.org/downloads/windows
+Required to install Python version 3 or above. 
+Download and install from: https://www.python.org/downloads/windows
 After installation, add Python 3 to PATH
 
-Required to install Pillow. Download and install by typing python -m pip install Pillow into the command line. After Pillow is installed, type python -m pip install --upgrade pip to update pillow to the newest version.
+Required to install Pillow. 
+Download and install by typing python -m pip install Pillow into the command line. 
+After Pillow is installed, type python -m pip install --upgrade pip to update pillow to the newest version.
 
 Make sure all photo editor files are in the same directory
 
